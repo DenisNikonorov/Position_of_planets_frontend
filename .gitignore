@@ -1,0 +1,13 @@
+# Environment
+.env
+*.env
+.env.local
+
+# Build artifacts
+bin/
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
